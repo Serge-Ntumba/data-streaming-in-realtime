@@ -1,2 +1,0 @@
-from faker import faker
-from confluent_kafka import SerializingProducer

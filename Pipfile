@@ -7,6 +7,10 @@ name = "pypi"
 faker = "*"
 confluent-kafka = "*"
 simplejson = "*"
+apache-airflow = "*"
+kafka = "*"
+kafka-python = {git = "git+https://github.com/dpkp/kafka-python.git"}
+urllib3 = "==1.25.11"
 
 [dev-packages]
 
